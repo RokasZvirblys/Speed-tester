@@ -1,19 +1,3 @@
-/*
-Have a shape on the screen V
-Shape disappears when clicked V
-When the shape is clicked, it reappears after 3 seconds V
-Measure time between shape appearing and being clicked V
-Otuput that time V
-
-Random location on screen V
-Random shape V
-Random color V
-Random appearance time V
-Time shown in paragraph
-Black backgorund
-White words
-*/
-
 var start;
 var clicked;
 
